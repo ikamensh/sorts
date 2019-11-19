@@ -1,0 +1,5 @@
+Merge sort took 1ms to sort 1000 integers.
+Merge sort took 17ms to sort 10_000 integers.
+Merge sort took 136ms to sort 100_000 integers.
+Merge sort took 1458ms to sort 1_000_000 integers.
+Merge sort took 15317ms to sort 10_000_000 integers.

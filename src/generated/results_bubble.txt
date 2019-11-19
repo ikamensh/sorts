@@ -1,0 +1,5 @@
+Bubble sort took 42ms to sort 1000 integers.
+Bubble sort took 332ms to sort 3000 integers.
+Bubble sort took 1141ms to sort 6000 integers.
+Bubble sort took 3056ms to sort 10000 integers.
+Bubble sort took 12112ms to sort 20000 integers.
