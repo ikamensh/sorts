@@ -10,11 +10,10 @@ pub fn merge_sort <T> (array: &[T]) -> Vec<T>
     }
 }
 
+/// create a new sorted array out of two sorted arrays left and right.
+/// new array will contain all elements from the two subarrays given.
 fn merge <T> (left: &[T], right: &[T]) -> Vec<T>
     where T: std::cmp::PartialOrd + Copy{
-
-    /// create a new sorted array out of two sorted arrays left and right.
-    /// new array will contain all elements from the two subarrays given.
 
 
     let mut result = Vec::<T>::with_capacity(left.len() + right.len());
